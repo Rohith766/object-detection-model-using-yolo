@@ -6,7 +6,7 @@
 # About
   * Trained the model with custom dataset.
   * Used labels to create the dataset.
-  * Trainde with 5 diferent variables(gloves,helmet,jacket,goggles).
+  * Tech stack used yolov8 and labels.
 # References:
   * YOLOv8 model: https://github.com/ultralytics/ultralytics
   * YOLOv7 model: https://github.com/WongKinYiu/yolov7
